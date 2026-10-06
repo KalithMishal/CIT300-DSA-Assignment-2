@@ -1,4 +1,3 @@
-java
 public class MyLinkedList {
 
     // NODE
